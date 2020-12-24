@@ -1,0 +1,11 @@
+/* ==Userstyle==
+@name            Colorblind Mode for Lichess
+@namespace       github.com/ijhchess/userstyles
+@homepageURL
+@version         1.0
+@description     Colorblind friendly colors for toggle boxes. This fixes the common red/green colorblind issues.
+@author          github.com/ijhchess
+==/Userstyle== */
+
+.cmn-toggle+label::before {background-color:#C07821}
+.cmn-toggle:checked+label::before {background-color:#287BE2}
