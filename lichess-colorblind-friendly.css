@@ -8,4 +8,4 @@
 ==/Userstyle== */
 
 .cmn-toggle+label::before {background-color:#d64f00}
-.cmn-toggle:checked+label::before {background-color:#287BE2}
+.cmn-toggle:checked+label::before {background-color:#3692e7}
