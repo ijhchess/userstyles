@@ -1,0 +1,59 @@
+/* ==Userstyle==
+@name            Dark mode for chessvariants.training
+@namespace       github.com/ijhchess/userstyles
+@homepageURL     https://github.com/ijhchess/userstyles/blob/main/dark_mode_for_chessvariantstraining.css
+@version         1.0
+@description     Spares me from singeing my eye's rods.
+@author          github.com/ijhchess
+==/Userstyle== */
+
+body {
+    background-color: #2e2a24;
+    color: #bababa;
+}
+
+a {
+    color: #3692e7;
+}
+
+#topbar {
+    background-color: #2e2a24;
+}
+
+.dropdown > ul > li > a {
+    background-color: #2e2a24;
+}
+
+#topbar-menu > li > a {
+    color: #bababa;
+}
+
+html body div#bodycontainer form input {
+    background-color: #2e2a24;
+    color: #bababa;
+}
+
+html body div#bodycontainer form textarea {
+    background-color: #2e2a24;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ratingChartDateRangeSelector {
+    background-color: #2e2a24;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ratingChartShownSelector {
+    background-color: #2e2a24;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ttsChartDateRangeSelector {
+    background-color: #2e2a24;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ttsChartShownSelector {
+    background-color: #2e2a24;
+    color: #bababa;
+}
