@@ -1,0 +1,93 @@
+body {
+    background: #161512 linear-gradient(to bottom, #2e2a24 49px, #161512 116px) no-repeat;
+    color: #bababa;
+}
+
+a {
+    color: #3692e7;
+}
+
+#topbar {
+    background-color: #2e2a24;
+}
+
+.dropdown > ul > li > a {
+    background-color: #262421;
+}
+
+#topbar-menu > li > a {
+    color: #bababa;
+}
+
+html body div#bodycontainer form input {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer form textarea {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ratingChartDateRangeSelector {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ratingChartShownSelector {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ttsChartDateRangeSelector {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer div.chartWithOptions select#ttsChartShownSelector {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer textarea#commentBody {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer div#tag-container p input#retag {
+    background-color: #262421;
+    color: #bababa;
+}
+
+#controls > div {
+    background-color: #262421;
+    font-size: 1.3em;
+}
+
+html body div#bodycontainer div#commentContainer div#cmt-1475.comment {
+    background-color: #262421;
+    color: #bababa;
+}
+
+input[id^='cmt_'] {
+    background-color: #262421;
+    color: #bababa;
+}
+
+html body div#bodycontainer div#ground-container div#chat-box input#chat-input {
+    background-color: #262421;
+    color: #bababa;
+}
+
+.clocks {
+    background-color: #2e2a24;
+    color: #e3e3e3;
+}
+
+.turn {
+    background-color: #44611b /* #384722; */
+}
+
+#chat-box, #next-to-ground, .pgn, #bodycontainer {
+    background-color: #262421;
+}
